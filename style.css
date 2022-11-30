@@ -1,1 +1,245 @@
+@font-face {
+    font-family: LibreFranklin;
+    src: url(fonts/LibreFranklin.ttf);
+}
 
+html, body {
+    min-height: 100%;
+    margin: 0;
+    color: white;
+}
+
+body {
+    background-color: #222831;
+    font-family: LibreFranklin;
+}
+
+.tittle > h1 {
+    font-size: 230%;
+    padding: 0;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+.follow-us {
+    position: absolute;
+    top: 0;
+    right: 2%;
+    font-size: 150%;
+}
+
+.follow-us-top-part {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.follow-us-fb {
+    position: absolute;
+    top: 7%;
+    right: 9.3%;
+}
+
+.follow-us-twttr {
+    position: absolute;
+    top: 7%;
+    right: 6.8%;
+}
+
+.follow-us-ig {
+    position: absolute;
+    top: 7%;
+    right: 4.5%;
+}
+
+.follow-us-yt {
+    position: absolute;
+    top: 7%;
+    right: 1.7%;
+}
+
+.bottom-left-text > p1 {
+    position: absolute;
+    top: 32%;
+    left: 2%;
+    font-size: 400%;
+    padding: 0;
+}
+
+.bottom-left-text > p2 {
+    position: absolute;
+    top: 40%;
+    left: 2%;
+    font-size: 400%;
+    padding: 0;
+}
+
+.person {
+    position: absolute;
+    padding: 0;
+    top: 57%;
+    left: 13%;
+}
+
+.person > p {
+    position: absolute;
+    padding: 0;
+    font-size: 80%;
+    width: 380%;
+    text-align: center;
+    left: -120%;
+}
+
+.card {
+    position: absolute;
+    padding: 0;
+    top: 57%;
+    left: 24%;
+}
+
+.card > p {
+    position: absolute;
+    padding: 0;
+    font-size: 80%;
+    width: 250%;
+    text-align: center;
+    left: -70%;
+}
+
+.clock {
+    position: absolute;
+    padding: 0;
+    top: 57%;
+    left: 36%;
+}
+
+.clock > p {
+    position: absolute;
+    padding: 0;
+    font-size: 80%;
+    width: 380%;
+    text-align: center;
+    left: -125%;
+}
+
+.arrow-to-left {
+    position: absolute;
+    padding: 0;
+    top: 87%;
+    left: 11%;
+}
+
+.arrow-to-right {
+    position: absolute;
+    padding: 0;
+    top: 87%;
+    left: 44%;
+}
+
+.mairita {
+    position: absolute;
+    padding: 0;
+    top: 81%;
+    left: 14%;
+}
+
+.mairita > p3 {
+    position: absolute;
+    padding: 0;
+    top: 115%;
+    left: -1%;
+    text-align: center;
+    width: 100%;
+}
+
+.mairita > p4 {
+    position: absolute;
+    padding: 0;
+    top: 137%;
+    left: 25%;
+    text-align: center;
+    font-size: 85%;
+}
+
+.janis {
+    position: absolute;
+    padding: 0;
+    top: 81%;
+    left: 21%;
+}
+
+.janis > p5 {
+    position: absolute;
+    padding: 0;
+    top: 115%;
+    left: -24%;
+    text-align: center;
+    width: 150%;
+}
+
+.janis > p6{
+    position: absolute;
+    padding: 0;
+    top: 139%;
+    left: -1%;
+    text-align: center;
+    font-size: 85%;
+}
+
+.dace {
+    position: absolute;
+    padding: 0;
+    top: 81%;
+    left: 28.5%;
+}
+
+.dace > p7 {
+    position: absolute;
+    padding: 0;
+    top: 115%;
+    left: -1%;
+    text-align: center;
+    width: 100%;
+}
+.dace > p8 {
+    position: absolute;
+    padding: 0;
+    top: 137%;
+    left: -27%;
+    width: 150%;
+    text-align: center;
+    font-size: 85%;
+}
+
+.zigfrids {
+    position: absolute;
+    padding: 0;
+    top: 81%;
+    left: 36%;
+}
+
+.zigfrids > p9{
+    position: absolute;
+    padding: 0;
+    top: 116%;
+    left: -20%;
+    text-align: center;
+    width: 150%;
+}
+
+.zigfrids > p10 {
+    position: absolute;
+    padding: 0;
+    top: 137%;
+    left: 10%;
+    text-align: center;
+    font-size: 85%;
+}
+
+.bottom-part{
+    position: absolute;
+    padding: 0;
+    top: 22.9%;
+    left: 0;
+}
